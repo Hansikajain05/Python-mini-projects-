@@ -1,17 +1,7 @@
-![Python](https://img.shields.io/badge/Python-Projects-blue)
+# Python Mini Projects 🚀
 
-# Python Mini Projects 
+This repository contains beginner Python projects:
 
-This repository contains beginner-friendly Python projects:
-
-## Projects
-- ATM Simulation System
-- Game Project ( Rock-Paper-Scissors)
+- ATM Simulation
+- Stone Paper Scissors Game
 - Library Management System
-
-## Concepts Used
-- Functions
-- Conditionals & Loops
-
-## Author
-Hansika jain
