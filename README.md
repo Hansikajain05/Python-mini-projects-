@@ -1,7 +1,22 @@
-# Python Mini Projects 🚀
+# 🐍 Python Mini Projects
 
-This repository contains beginner Python projects:
+This repository contains beginner-friendly Python projects.
 
-- ATM Simulation
-- Stone Paper Scissors Game
-- Library Management System
+
+## 📌 Projects Included
+
+* 🏧 ATM Simulation System
+* ✊✋✌️ Stone Paper Scissors Game
+* 📚 Library Management System
+
+
+## 🛠️ Concepts Used
+
+* Functions
+* Loops
+* Conditional Statements
+
+
+## 👩‍💻 Author
+
+Hansika Jain
